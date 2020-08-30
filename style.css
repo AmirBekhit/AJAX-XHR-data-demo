@@ -1,0 +1,23 @@
+.button {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+button {
+  background-color: rgb(28, 79, 175);
+  color: white;
+  outline: none;
+  padding: 10px;
+  border-radius: 1rem;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 30vh;
+  background-color: cornflowerblue;
+  border-radius: 1rem;
+  border: solid 1px black;
+  text-align: center;
+}
